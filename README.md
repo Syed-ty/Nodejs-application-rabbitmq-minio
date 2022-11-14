@@ -39,6 +39,8 @@ enter user name - guest
 
  Run the command npm start you will get Listening on port 3000....
 
+
+For running of the project type the command - node publisher.js
  
 
 
