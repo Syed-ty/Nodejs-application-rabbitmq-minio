@@ -1,6 +1,6 @@
 # Nodejs-application-rabbitmq-minio
 
-# first unzip the given folder
+ first unzip the given folder
 
 # 1.Run the command -  npm install
 # It sets up every dependency needed for the project
