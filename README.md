@@ -1,7 +1,5 @@
 # Nodejs-application-rabbitmq-minio
 
- first unzip the given folder
-
  1.Run the command -  npm install
  It sets up every dependency needed for the project
 
@@ -10,7 +8,7 @@
  1.This url provide the information how to setup the minio server for different Operating Systems -- https://min.io/ 2.For windows operating system  here is the procedure
  2.1 first install by using this command -- https://dl.min.io/server/minio/release/windows-amd64/minio.exe
 
- 2.2 Run this command by commandprompt where the exe file has been downloaded - .minio.exe server C:\minio --console-address :9090
+ 2.2 Run this command by commandprompt where the exe file has been downloaded -- minio.exe server C:\minio --console-address :9090
   2.3 Replace C:\minio with the directory where it is download in your pc
  2.4 The cmd prompt  will show the result as API: http://192.0.2.10:9000  http://127.0.0.1:9000
  RootUser: minioadmin
