@@ -26,13 +26,17 @@
 # How to setup the rabbitmq locally
 
   for different operating system refer this url - https://www.rabbitmq.com/
- 3.1 For windows follow this procedure click on download + installation Here it recomended windows installer click here and it is depended on erlang.first install latest version of erlang 25.0 versionof 64 bit file. by clicking on couple of next button install button will arrive and install the erlang.
+ 3.1 For windows follow this procedure click on download + installation Here it recomended windows installer click here 
+ and it is depended on erlang.first install latest version of erlang 25.0 versionof 64 bit file. by clicking on couple of next button install button will arrive and install the erlang.
+
  3.2 Download the rabbitmq-server 3.11.3 exe .
+
  3.3 install rabbitmq. and  click on allow access button for access permission
 
  3.4 rabbit mq cmd prompt  inside this -- rabbitmq-plugins enable rabbitmq_managementand hit enter
+
  3.5 open a new tab -- http://localhost:15672
-enter user name - guest
+ enter user name - guest
  enter password  - guest
 
 For running of the project type the command - node publisher.js
